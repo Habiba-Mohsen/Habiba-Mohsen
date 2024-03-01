@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Habiba!!
 
-I'm Habiba,a passionate software developper who is currently a biomedical engineering undergraduate!
+**A Biomedical Engineering Undergraduate**
 
 <!--
 **Habiba-Mohsen/Habiba-Mohsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
