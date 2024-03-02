@@ -14,5 +14,5 @@
 
 
 
-<footer><p>📫 How to reach me:<p></p> <a href='https://www.linkedin.com/in/habiba-mohsen-2b545a272/'><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50"></a></footer>
+<footer><h2>📫 How to reach me:</h2> <a href='https://www.linkedin.com/in/habiba-mohsen-2b545a272/'><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50"></a></footer>
 
