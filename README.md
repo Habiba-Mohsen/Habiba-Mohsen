@@ -1,6 +1,6 @@
-<div style="text-align: center;"><h1>Hi there 👋, I'm Habiba</h1></div>
-<p><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></p>
-<p><strong>A Biomedical Engineering Undergraduate with immense passion for AI and Software Development</strong></p>
+<h1 align="center">Hi there 👋, I'm Habiba</h1>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></p>
+<p align="center"><strong>A Biomedical Engineering Undergraduate with immense passion for AI and Software Development</strong></p>
 <p><h2>Languages and Tools:</h2>
 <div style="display: flex; justify-content: space-between;">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" height="50">
