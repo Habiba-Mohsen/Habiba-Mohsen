@@ -8,6 +8,8 @@
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" width="50" height="50">
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="50" height="50">
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50">
 </div></p>
 
 
