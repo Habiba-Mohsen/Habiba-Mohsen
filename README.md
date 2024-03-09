@@ -16,6 +16,6 @@
 
 
 
-<footer><h2>📫 How to reach me:</h2> habiba.shaarawy01@eng-st.cu.edu.eg
+<footer><h2>📫 How to reach me:</h2> **Email:**habiba.shaarawy01@eng-st.cu.edu.eg
   <h2>Connect With Me:</h2><a href='https://www.linkedin.com/in/habiba-mohsen-2b545a272/'><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50"></a></a></footer>
 
