@@ -12,6 +12,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50">
 </div></p>
 
+<footer>
+  <h2>Connect With Me:</h2><a href='https://www.linkedin.com/in/habiba-shaarawy-265958307/?trk=opento_sprofile_details'><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50"></a></a></footer>
 
 
 
