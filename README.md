@@ -10,6 +10,8 @@
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" width="50" height="50">
+  
 </div></p>
 
 <footer>
